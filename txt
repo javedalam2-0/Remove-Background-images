@@ -1,0 +1,9 @@
+background:linear-gradient(to bottom right, #0f2027, #2c5364, #ff4e50)
+background-color: #e0f7fa;
+color: #4a90e2
+background:#f3f3f3;
+
+hover: background:#e8f0ff;
+border-color:#904e95
+
+btn:hover background-color:#904e95
